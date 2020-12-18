@@ -1,0 +1,9 @@
+ArUD = int(input())
+Robot = int(input())
+Dog = int(input())
+FlyingSaucer = int(input())
+
+if ArUD >= Dog:
+    print("YES")
+else:
+    print("NO")
